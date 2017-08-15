@@ -6,7 +6,7 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
   - [Spatial Analysis](#spatial-analysis)
   - [Modelling](#modelling)
   - [Bayesian](#bayesian)
-  - [Meta-Analysis](#meta-analysis)
+  - [Meta-analysis](#meta-analysis)
   - [Remote Sensing](#remote-sensing)
   - [Data Access](#data-access)
 
