@@ -1,4 +1,4 @@
-# awesome-ecology
+# Awesome Ecology
 A curated list of awesome ecology packages and tools. Inspired by [awesome-r](https://github.com/qinwf/awesome-R).
 
 - [R packages](#r-packages)
@@ -6,7 +6,7 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
   - [Spatial Analysis](#spatial-analysis)
   - [Modelling](#modelling)
   - [Bayesian](#bayesian)
-  - [Meta Analysis](#meta-analysis)
+  - [Meta-Analysis](#meta-analysis)
   - [Remote Sensing](#remote-sensing)
   - [Data Access](#data-access)
 
@@ -45,7 +45,7 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
 - [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - R interface to the JAGS MCMC library.
 - [rstan](http://mc-stan.org/interfaces/rstan.html) - R interface to the Stan MCMC software.
 
-### Meta analysis
+### Meta-analysis
 - [metafor](http://www.metafor-project.org/doku.php) - R package for conducting meta analyses.
 
 ### Remote Sensing
