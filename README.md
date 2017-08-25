@@ -3,6 +3,7 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
 
 - [R packages](#r-packages)
   - [Essentials](#essentials)
+  - [Data Management](#data-management)
   - [Graphic displays](#graphic-displays)
   - [Spatial Analysis](#spatial-analysis)
   - [Modelling](#modelling)
@@ -10,6 +11,7 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
   - [Meta-analysis](#meta-analysis)
   - [Remote Sensing](#remote-sensing)
   - [Data Access](#data-access)
+  - [Miscellaneous](#miscellaneous)
 
 
 - [Python modules](#python-modules)
@@ -35,11 +37,18 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
   - [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
   - [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A set of functions to work with dates and times.
 - [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
-- [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax. Alternative to [dplyr](https://github.com/hadley/dplyr).
+- [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
 
-### Graphic displays
+### Graphic Displays
 - [ggplot2](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
 - [lattice](http://lattice.r-forge.r-project.org/) - Powerful and elegant high-level data visualization system with an emphasis on multivariate data.
+
+### Data Management
+- [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation in a short and flexible syntax.
+- [dplyr](https://github.com/hadley/dplyr) - Fast data frames manipulation and database query.
+- [readr](https://github.com/hadley/readr) - A fast and friendly way to read tabular data into R.
+- [reshape2](https://github.com/hadley/reshape) - Flexibly restructure and aggregate data.
+- [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 
 ### Spatial Analysis
 - [adehabitatHR](https://cran.r-project.org/web/packages/adehabitatHR/vignettes/adehabitatHR.pdf) - Collection of tools for the estimation of animals home range.
@@ -53,6 +62,7 @@ A curated list of awesome ecology packages and tools. Inspired by [awesome-r](ht
 - [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
 
 ### Modelling
+- [blme](https://github.com/vdorie/blme) - Bayesian linear and generalised linear mixed-effects models.
 - [caret](http://cran.r-project.org/web/packages/caret/index.html) - Classification and Regression Training. Provides tools for creating training and testing sets.
 - [dsm](http://distancesampling.org/R/vignettes/mexico-analysis.html) - Density surface modelling of distance sampling data.
 - [lme4](https://github.com/lme4/lme4) - Mixed-effects models.
@@ -73,6 +83,7 @@ carry out model averaging based on the information criteria.
 - [unmarked](https://cran.r-project.org/web/packages/unmarked/vignettes/unmarked.pdf) - Fits hierarchical models of animal abundance and occurrence to data using various surveying methods.
 
 ### Bayesian
+- [blme](https://github.com/vdorie/blme) - Bayesian linear and generalised linear mixed-effects models.
 - [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - Running WinBUGS and OpenBUGS from R / S-PLUS.
 - [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - R interface to the JAGS MCMC library.
 - [rstan](http://mc-stan.org/interfaces/rstan.html) - R interface to the Stan MCMC software.
@@ -96,6 +107,8 @@ carry out model averaging based on the information criteria.
 - [rgbif](https://github.com/ropensci/rgbif) - Access to data from [GBIF](http://www.gbif.org/).
 - [rredlist](https://github.com/ropensci/rredlist) - Access to [IUCN Red List of Threatened Species API](http://apiv3.iucnredlist.org/) via R.
 
+### Miscellaneous
+- [vegan](https://cran.r-project.org/web/packages/vegan/vignettes/FAQ-vegan.html) - Package with various functions helpful for community ecologists. Includes methods for multivariate analysis, tools for diversity analysis etc. 
 
 ## Python Modules
 *See also: [awesome-python](https://github.com/vinta/awesome-python)*
